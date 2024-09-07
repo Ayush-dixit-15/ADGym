@@ -10,7 +10,7 @@ const Footer = () => {
        <img src = {Logo} alt = "logo" style = {{width:'48px', height: '48px', margin: '0 20px'}} />
     
        <Typography variant ="h5" pb="40px" mt="20px">
-        Made under the Guidance of J.S.M
+        AD's Gym
        </Typography>
        </Stack>
     </Box>
